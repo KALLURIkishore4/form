@@ -1,0 +1,21 @@
+.container{
+    left: 0;
+    right: 0;
+    position: absolute;
+    margin: auto;
+    text-align: center;
+    width: 10px;
+}
+.submit{
+    font-size: 1rem;
+    border-radius: 2rem;
+    background-color: blue;
+}
+.sub-container{
+    font-size:1 rem;
+    font-weight: bold;
+    padding: 1rem;
+    border: 5px solid red;
+    width: 100%;
+    height: 100%;
+}
